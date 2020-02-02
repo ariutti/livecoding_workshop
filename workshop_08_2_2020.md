@@ -55,7 +55,7 @@ La pratica del livecoding non si limita al solo ambiente musicale o audiovisivo.
 L'**errore**, il **crash** del sistema non solo sono comuni, ma fanno parte dell'estetica del livecoding.
 
 
-citazione Shelly Knotts
+>citazione Shelly Knotts
 
 
 >Live coding is primarily developed inside the **free culture movement**, and **encourages self creativity rather than cultural consumption.** Also diversity inclusion and respect has always been considered a fundamental part of the thinking around this practice in live coding communities.
@@ -67,6 +67,14 @@ Come pratica il livecoding incoraggia lo sviluppo di un atteggiamento critico ne
 
 
 #### etica hacker
+
+<p style="font-size:0.6em;text-align:left;color:aquamarine;">L'accesso ai computer - e a tutto ciò che potrebbe insegnare qualcosa su come funziona il mondo - dev'essere assolutamente illimitato e completo.<br/>Dare sempre precedenza all'imperativo "Hands on!"<br/><br/>
+Tutta l'informazione dev'essere libera.<br/><br/>
+Dubitare dell'autorità. Promuovere il decentramento.<br/><br/>
+Gli hacker dovranno essere giudicati per il loro operato, e non sulla base di falsi criteri quali ceto, età, razza, sesso o posizione sociale.<br/><br/>
+<b>Con un computer puoi creare arte.</b><br/><br/>
+I computer possono cambiare la vita in meglio.<br/><br/></p>
+
 
 
 
@@ -81,7 +89,7 @@ Come pratica il livecoding incoraggia lo sviluppo di un atteggiamento critico ne
 
 
 
-# Il punto di riferimento
+# Punto di riferimento
 
 
 ## TOPLAP
@@ -96,17 +104,12 @@ TOPLAP è un portale tramite cui accedere a risorse di vario genere relative al 
 * eventi in giro per il mondo
 * archivio storico delle mailing list
 * link ai forum
-* draft manifesto
-
-
-### draft manifesto
-
-Lorem ipsum
+* [draft manifesto](https://toplap.org/wiki/ManifestoDraft)
 
 
 ## TOPLAP Italia
 
-<a href="http://127.0.0.1">Il nodo italiano</a>
+<a href="https://www.facebook.com/groups/1051671308353969/">Il nodo italiano</a>
 
 
 
@@ -187,6 +190,7 @@ E' un'interfaccia di programmazione di SuperCollider
 
 
 ## SonicPi
+![sonicPi_logo]()
 
 
 
@@ -202,15 +206,17 @@ E' una libreria Python per il live coding. E' stata creata per semplificare l'ap
 
 
 ## Orca
+![orca_logo]()
 
 
 
 ## Gibber
+![gibber_logo]()
 
 
 
 ## Hydra
-
+![hydra_logo]()
 
 
 
@@ -242,6 +248,36 @@ E' una libreria Python per il live coding. E' stata creata per semplificare l'ap
 * NDef
 
 
+
+# Riferimenti
+
+
+<h3>Libri</h3>
+<ul>
+<li>Wilson, Cottle, Collins, **SuperCollider Book**, MIT Press</li>
+<li>McLean, Dean, **The Oxford handbook of algorithmic music**, Oxford Press</li>
+<li>Collins, Escrivàn, **The Cambridge Companion to Electronic Music**, Cambridge University Press</li>
+</ul>
+
+
+<h3>ebook</h3>
+<ul>
+<li>theseanco, **/how_co34pt_liveCode/**, <a href="https://theseanco.github.io/howto_co34pt_liveCode/">https://theseanco.github.io/howto_co34pt_liveCode/</a></li>
+<li>tidal book (TBA)</li>
+</ul>
+
+
+## siti
+
+* [TOPLAP](https://toplap.org/)
+* [Awsome livecoding]() --> un elenco di software e librerie dedicate al livecoding
+* [Alex McLean]()
+* [Nick Collins](https://composerprogrammer.com/) --> un punto di riferimento per l'utilizzo di SuperCollider
+* [Renick Bell]()
+* [Sean Cotterill]() --> un livecoder con la passione della condivisione
+* [Thor Magnusson]() --> creatore di ixi, ricercatore, compositore
+* [Tiempo del ruido]() --> Alexandra Càrdenas
+* [David Ogborn]() --> creatore di Extramuros, sistema per livecoding di gruppo via network
 
 ## Alcune SynthDef che utilizzo
 
