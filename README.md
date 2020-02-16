@@ -22,5 +22,7 @@ Una gentilezza sola: fate altrettanto! Condividiamo e miglioriamo assieme!
 * mail: v1a1l1e1@gmx.com
 * sito: https://v1a1l1e1.github.io/
 * pagina facebook: https://www.facebook.com/v1a1l1e1/
+* soundcloud: https://soundcloud.com/v1a1l1e1
+* bandcamp: https://v1a1l1e1.bandcamp.com
 * instagram: https://www.instagram.com/v1a1l1e1/
 
