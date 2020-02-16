@@ -8,7 +8,7 @@
 ## Istruzioni
 
 ### Le slides
-Le slides sono create con **reveal.js**. Per poterle utilizzare è necessario installare la libreria reveal.js: [qui]() le istruzioni dettagliate.
+Le slides sono create con **reveal.js**. Per poterle utilizzare è necessario installare la libreria reveal.js: [qui](https://revealjs.com/#/) le istruzioni dettagliate.
 Al termine delle slides è presente una sezione riferimenti con alcuni link a siti, testi, paper, video da cui ho preso alcune informazioni o che semplicemente ho usato come spunto di riflessione su alcune tematiche relative al livecoding. La lista è in continuo aggiornamento, non è in nessun modo esaustiva, ma può essere un punto di partenza per approfindire vari argomenti legati a computer music, composizione algoritmica, livecoding e musica elettronica
 
 ### Il codice
